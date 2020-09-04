@@ -1,2 +1,2 @@
 <?php
-echo '1Cadastrar Usuário';
+echo 'Cadastrar Usuário';
